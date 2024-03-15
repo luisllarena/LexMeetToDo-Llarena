@@ -1,0 +1,16 @@
+*  {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+  font-family: 'Roboto Slab', sans-serif;
+}
+
+body {
+  background: #FFFFFF;
+  color: #191919;
+  min-height: 100vh;
+}
+
+button {
+  cursor: pointer;
+}
